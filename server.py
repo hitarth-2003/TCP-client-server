@@ -19,4 +19,3 @@ if __name__=="__main__":
         client.send(bytes(string,"utf-8"))
 
         client.close()
-ff
